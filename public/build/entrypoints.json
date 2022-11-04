@@ -1,0 +1,34 @@
+{
+  "entrypoints": {
+    "app": {
+      "js": [
+        "/build/runtime.bff8fc39.js",
+        "/build/755.49c5771e.js",
+        "/build/138.064e51d2.js",
+        "/build/app.ae3232cf.js"
+      ],
+      "css": [
+        "/build/app.2793928a.css"
+      ]
+    },
+    "editmode": {
+      "js": [
+        "/build/runtime.bff8fc39.js",
+        "/build/755.49c5771e.js",
+        "/build/138.064e51d2.js",
+        "/build/editmode.2070b740.js"
+      ]
+    },
+    "blog_listing": {
+      "js": [
+        "/build/runtime.bff8fc39.js",
+        "/build/755.49c5771e.js",
+        "/build/686.34b6b209.js",
+        "/build/blog_listing.2fd2544e.js"
+      ],
+      "css": [
+        "/build/blog_listing.c107ea47.css"
+      ]
+    }
+  }
+}
